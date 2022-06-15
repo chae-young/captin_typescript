@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {//ts컴파일할때 프로젝트가 어떻게 이 타입스크립트를 이해하는가 (기준)
+        "allowJs": true, //현 프로젝트에 js 허용
+        "checkJs":true,
+        "noImplicitAny": true //모든 타입에 any라도 넣어야 한다
+    }
+}
